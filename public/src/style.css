@@ -1,0 +1,106 @@
+body{
+    background-color: burlywood;
+    background-image: url(../assets/image/download.jpg);
+    background-repeat: repeat-y;
+    background-position: right;
+}
+.my{
+    text-align: center;
+    color:purple;
+  }
+  #bios{
+    color : purple;
+    text-align: center;
+  }
+  .img{
+      border-radius: 50%;
+  }
+  @media only screen and(max-width:600px){
+    .img{
+        border-radius: 50%;
+    }}
+  .name{
+      color: purple;
+  }
+  #a{
+      color: blue;
+      font-style: italic;
+  }
+  .intro, .intro1, .intro2, .intro3, .intro4{
+      color:purple;
+  }
+  #b{
+      color: purple;
+    }
+  #lan{
+      color: purple;
+  }
+  .info{
+      color: blue;
+      font-style: italic;
+  }
+  #img{
+      border-radius: 30%;
+      height: 400px;
+      width: 400px;
+    }
+  @media only screen and(max-width:600px){
+      #img{
+        border-radius: 30%;
+        height: 400px;
+        width: 400px;
+      }}
+  .ft{
+    border-radius: 30%;
+    height: 400px;
+    width: 400px;
+  }
+  @media only screen and(max-width:600px){
+    .ft{
+        height: 400px;
+        width: 400px;
+    }}
+  .proj{
+      color: purple;
+  }
+  .b{
+      text-align: center;
+      color:purple;
+  }
+  .mydiv, .Myname{
+    text-align: center;
+  }
+  #nm{
+    color: purple;
+    font-size: 40px;
+  }
+  #io{
+    font-size: 20px;
+    color: purple;
+  }
+  /* .split{
+    height: 100%;
+    width: 50%;
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    overflow-x: hidden;
+    padding-top: 20px;
+  }
+  
+  .left {
+    left: 0;
+  }
+  
+  .right {
+    right: 0;
+  }
+  
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+  } */
+  
